@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadicodeuk
 
-- 👀 I’m interested in data science and machine learning
+- I’m interested in data science and machine learning
 
 <!---
 
