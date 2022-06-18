@@ -4,9 +4,6 @@
 
 🌱 I mostly use Python to visualise, analyse and generate insights from data. 
 
-🌱 I'm working on further developing my programming and analysis skills, so do get in touch to work on any joint projects!
-
-
 <!---
 
 - 🌱 I’m currently learning ...
